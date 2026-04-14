@@ -20,9 +20,9 @@ A estrutura segue o padrão de páginas modernas, conduzindo o usuário de forma
 
 ## 🛠️ Tecnologias Utilizadas
 
-HTML5 🟧
-CSS3 🟦
-JavaScript 🟨
+- HTML5 🟧
+- CSS3 🟦
+- JavaScript 🟨
 
 ## 🎯 Objetivo
 
