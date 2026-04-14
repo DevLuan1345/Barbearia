@@ -32,4 +32,4 @@ O objetivo do projeto é simular uma presença digital profissional para uma bar
 
 Repositório: https://github.com/DevLuan1345/Barbearia
 
-Deploy do Projeto: 
+Deploy do Projeto: https://devluan1345.github.io/Barbearia/
